@@ -45,8 +45,8 @@
     "url": "https://github.com/BauViso/angular-suneditor.git"
   },
   "peerDependencies": {
-    "@angular/common": "^12.0.5",
-    "@angular/core": "^12.0.5",
+    "@angular/common": "^13.4.0",
+    "@angular/core": "^13.4.0",
     "suneditor": "^2.41.0"
   },
   "dependencies": {
