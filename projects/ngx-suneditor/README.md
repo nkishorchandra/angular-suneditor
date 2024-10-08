@@ -5,7 +5,9 @@
 <h3 align="center">Angular SunEditor</h3>
   <br />
   <p align="center">
-    ngx-suneditor is an Angular module for the SunEditor WYSIWYG Editor.
+    ngx-sendune-editor is an Angular (15+) module for the SunEditor WYSIWYG Editor.
+    <br /> <br />
+    This is a SunEditor copy made for use in SENDUNE. Provides compatibility for Angular 15 and above.
     <br /> <br />
     <br />
     <p align="center">

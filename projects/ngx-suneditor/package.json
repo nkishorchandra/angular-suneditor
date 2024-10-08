@@ -1,7 +1,7 @@
 {
-  "name": "ngx-suneditor",
+  "name": "ngx-sendune-editor",
   "description": "Angular component for Suneditor WYSIWYG richt text editor",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "license": "MIT",
   "author": {
     "name": "BauViso Software UG",
@@ -18,6 +18,11 @@
       "name": "Philipp Aleksovski",
       "email": "p.aleksovski@bauviso.de",
       "url": "https://github.com/ScriptType"
+    },
+    {
+      "name": "Kishor Chandra Nalla",
+      "email": "nkishorchandra@gmail.com",
+      "url": "https://github.com/nkishorchandra"
     }
   ],
   "keywords": [
@@ -45,8 +50,8 @@
     "url": "https://github.com/BauViso/angular-suneditor.git"
   },
   "peerDependencies": {
-    "@angular/common": "^13.4.0",
-    "@angular/core": "^13.4.0",
+    "@angular/common": "^15.2.10",
+    "@angular/core": "^15.2.10",
     "suneditor": "^2.41.0"
   },
   "dependencies": {
